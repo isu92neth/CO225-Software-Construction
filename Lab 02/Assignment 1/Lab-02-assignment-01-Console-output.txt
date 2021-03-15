@@ -1,0 +1,6 @@
+Person [Name: Kasun, Height(m): 1.63, Weight(kg): 60.0, BMI: 22.58, Status: You are healthy]
+Person [Name: Sunil, Height(m): 1.55, Weight(kg): 53.0, BMI: 22.06, Status: You are healthy]
+Person [Name: Lahiru, Height(m): 1.44, Weight(kg): 67.0, BMI: 32.31, Status: You are overweight]
+Person [Name: Anjali, Height(m): 1.42, Weight(kg): 65.0, BMI: 32.24, Status: You are overweight]
+Person [Name: Sarath, Height(m): 1.72, Weight(kg): 49.0, BMI: 16.56, Status: Not healthy]
+Person [Name: Vasundara, Height(m): 1.57, Weight(kg): 68.0, BMI: 27.59, Status: You are overweight]
