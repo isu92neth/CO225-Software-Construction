@@ -1,0 +1,12 @@
+The Average attendance percentage of all the students is calculated as follows.
+
+         Average attendance percentage of all the students = (Total Number of lectures attended by all students*100)/(45*61)
+
+So if the average attendance percentage of all the students is 50%,then the Total Number of lectures attended by all students will be,
+
+         Total Number of lectures attended by all students = (Average attendance percentage of all the students*45*61)/100
+                                                           = (50*45*61)/100
+                                                           = 1372.5
+
+Since the number of lectures attended by a student is a whole number which means int,we cannot get a float value for Total Number of lectures attended by all students as calculated above.
+Therefore we cannot get 50% as the average attendance percentage of all the students.
