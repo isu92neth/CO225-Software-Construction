@@ -1,0 +1,19 @@
+Answers:
+	1). N comparison operations
+	2). Yes. The number of operations changes according to the number of elements in the set.
+	    When we remove one item first we remove the first element from the set.
+	    Then we copy the rest of the elements to the front and make the last element null.
+	    So as the number of elements changes in the set, the number of elements to be copied to front will change.
+	    Therefore the number of operations changes according to the number of elements in the set. 
+	3). Yes
+	    To check if the new item is already in the set we should compare the new item with all the items in the set. 
+	    So if the items are sorted in the set we could use binary search algorithm to search the item which is equal to the new item if existing.
+	    Therefore the speed of the process of adding items to the set will be high.
+	4). Option 1 is better.
+	    1.The remove method returns null if the ArrayList is empty. 
+	      This condition is checked at the begining of the execution of the method.
+	      Therefore no need of checking other corner cases.
+	    2.Easy to follow the code as it increases the readability.
+	5). Yes
+	    We can use @SuppressWarnings("unchecked") annotation in java to get rid of Xlint warnings
+	    
