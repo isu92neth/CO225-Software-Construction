@@ -3,4 +3,4 @@
 #### Tic-Tac-Toe App
 
   - Event handling
-  - Use of Model View Control (MVC) architectur
+  - Use of Model View Control (MVC) architecture
